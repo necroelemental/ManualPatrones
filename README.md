@@ -1,0 +1,1 @@
+# ManualPatrones
